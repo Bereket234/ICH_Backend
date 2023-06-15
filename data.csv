@@ -1,0 +1,24 @@
+patient_id,originalImage,predictedImage,mask,hasDisease,date,isBookmarked,intraventricular,intraparenchymal,subarachnoid,epidural,subdural
+2,images/22.jpg,predictions/24_prediction.jpg,masks/24_mask.jpg,True,2023-06-15 06:55:58.938145+00:00,True,5.932808562647551e-06,0.4696742296218872,2.438487856082361e-09,0.5219167470932007,0.008403109386563301
+3,images/20.jpg,predictions/23_prediction.jpg,masks/23_mask.jpg,True,2023-06-14 19:50:15.358585+00:00,False,4.196533154754434e-06,0.5185896158218384,2.3165080964560048e-09,0.4694226384162903,0.011983548291027546
+3,images/30_PcPiPfC.jpg,predictions/22_prediction.jpg,masks/22_mask.jpg,True,2023-06-14 19:46:27.240696+00:00,False,8.175736002158374e-05,0.1969815045595169,1.1705957803087585e-07,0.6915733814239502,0.1113632544875145
+3,images/27.jpg,predictions/21_prediction.jpg,masks/21_mask.jpg,True,2023-06-14 19:45:12.149652+00:00,False,4.6052773541305214e-05,0.11425570398569107,5.035932915120611e-08,0.7977524399757385,0.08794575184583664
+3,images/16.jpg,predictions/20_prediction.jpg,masks/20_mask.jpg,False,2023-06-14 19:35:18.695571+00:00,False,0.0,0.0,0.0,0.0,0.0
+4,images/28.jpg,predictions/19_prediction.jpg,masks/19_mask.jpg,True,2023-06-14 19:20:36.306346+00:00,False,2.8904038117616437e-05,0.17644742131233215,2.0972686698428333e-08,0.7709567546844482,0.05256683751940727
+3,images/15.jpg,predictions/18_prediction.jpg,masks/18_mask.jpg,False,2023-06-14 19:18:23.771362+00:00,False,0.0,0.0,0.0,0.0,0.0
+4,images/12.jpg,predictions/17_prediction.jpg,masks/17_mask.jpg,True,2023-06-14 19:16:42.515663+00:00,False,4.50892585490692e-08,0.07469745725393295,1.4744342899386531e-12,0.9207280874252319,0.004574407823383808
+4,images/11.jpg,predictions/16_prediction.jpg,masks/16_mask.jpg,True,2023-06-14 19:01:24.830037+00:00,False,9.550137747282861e-08,0.03772597759962082,6.611238466402991e-12,0.9541469216346741,0.008127006702125072
+4,images/15_image.jpg,predictions/15_prediction.jpg,masks/15_mask.jpg,False,2023-06-14 19:00:23.481328+00:00,False,0.0,0.0,0.0,0.0,0.0
+4,images/14_image.jpg,predictions/14_prediction.jpg,masks/14_mask.jpg,False,2023-06-14 18:59:53.653615+00:00,False,0.0,0.0,0.0,0.0,0.0
+4,images/13_image.jpg,predictions/13_prediction.jpg,masks/13_mask.jpg,True,2023-06-14 18:59:11.950442+00:00,False,0.0,76.1,0.0,19.97,3.93
+4,images/12_image.jpg,predictions/12_prediction.jpg,masks/12_mask.jpg,True,2023-06-14 18:56:24.856419+00:00,False,0.0,66.32,0.0,29.14,4.54
+3,images/30.jpg,predictions/11_prediction.jpg,masks/11_mask.jpg,True,2023-06-14 11:24:04.604521+00:00,False,8.175736002158374e-05,0.1969815045595169,1.1705957803087585e-07,0.6915733814239502,0.1113632544875145
+4,images/049_81.jpg,predictions/10_prediction.jpg,masks/10_mask.jpg,False,2023-06-14 11:18:21.203718+00:00,False,0.0,0.0,0.0,0.0,0.0
+3,images/26.jpg,predictions/9_prediction.jpg,masks/9_mask.jpg,False,2023-06-14 08:11:36.480295+00:00,False,0.0,0.0,0.0,0.0,0.0
+2,images/8_image.jpg,predictions/8_prediction.jpg,masks/8_mask.jpg,True,2023-06-14 08:07:53.308043+00:00,False,0.01,78.6,0.0,17.95,3.44
+3,images/13.jpg,predictions/7_prediction.jpg,masks/7_mask.jpg,True,2023-06-14 08:04:23.603927+00:00,False,2.1862117137061432e-05,0.7342686653137207,5.4085031564454766e-08,0.2270219922065735,0.038687463849782944
+2,images/6_image.jpg,predictions/6_prediction.jpg,masks/6_mask.jpg,True,2023-06-11 19:42:45.280421+00:00,True,0.01,53.16,0.0,41.4,5.43
+2,images/5_image.jpg,predictions/5_prediction.jpg,masks/5_mask.jpg,True,2023-06-11 19:42:42.576938+00:00,False,0.01,53.16,0.0,41.4,5.43
+2,images/4_image.jpg,predictions/4_prediction.jpg,masks/4_mask.jpg,True,2023-06-11 19:42:40.222910+00:00,False,0.01,53.16,0.0,41.4,5.43
+2,images/3_image.jpg,predictions/3_prediction.jpg,masks/3_mask.jpg,True,2023-06-11 19:42:37.768383+00:00,False,0.01,53.16,0.0,41.4,5.43
+2,images/2_image.jpg,predictions/2_prediction.jpg,masks/2_mask.jpg,True,2023-06-11 19:42:34.432351+00:00,False,0.01,53.16,0.0,41.4,5.43
